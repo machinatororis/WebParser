@@ -12,4 +12,4 @@ Version 1.0 (30-11-2014)
 - Display HTML code and extracted emails.
 
 ## 🔧 Versions:
-- **Qt**: Version used for GUI and parsing.
+- **IDE**: Qt Creator
